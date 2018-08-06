@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "757635706812",
+    "firebase_url": "https://downloadimagetool.firebaseio.com",
+    "project_id": "downloadimagetool",
+    "storage_bucket": "downloadimagetool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757635706812:android:14ad9785b7f0416b",
+        "android_client_info": {
+          "package_name": "com.downloadimagetool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757635706812-t6lfhbjn5jt5dt7m7v9q1lcjur6uvba9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTz5mMI_xC1U47oS3fQ-GK6RhrVVgXUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
